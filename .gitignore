@@ -1,0 +1,5 @@
+# Git対象に含めたいファイルを作成
+$ touch tmp/not_ignore
+
+# `tmp/not_ignore`ファイルを編集
+$ echo このファイルはGitで管理したいです >> tmp/not_ignore
